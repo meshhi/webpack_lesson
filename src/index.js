@@ -1,0 +1,1 @@
+const post = new Post('webpack post title');
